@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Deudom" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/navy_background</item>
+        <item name="android:statusBarColor">@color/navy_background</item>
+    </style>
+
+    <style name="Theme.Deudom" parent="Base.Theme.Deudom" />
+</resources>
